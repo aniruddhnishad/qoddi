@@ -1,5 +1,5 @@
 <?php
-$mysqli = new mysqli("srv-captain--tkcbewvhdi-mysql-80x","aniruddh-user","KyXmUpQ1Lx4J","aniruddh-database");
+$mysqli = new mysqli("srv-captain--besudqizam-mysql-80x","aniruddh-user","JAjt04b2BF7O","aniruddh-database");
 
 // Check connection
 if ($mysqli -> connect_errno) {
