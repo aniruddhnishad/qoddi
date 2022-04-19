@@ -1,4 +1,5 @@
 <?php
+echo "ok";
 $mysqli = new mysqli("srv-captain--besudqizam-mysql-80x","aniruddh-user","JAjt04b2BF7O","aniruddh-database");
 
 // Check connection
